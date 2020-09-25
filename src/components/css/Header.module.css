@@ -1,0 +1,20 @@
+
+.logo
+{
+    color: #FF3A58;
+    font-weight: bold;
+}
+
+.inr
+{
+    border-radius: 20px;
+    border:2px solid #333333;
+    outline: none;
+    font-weight: bolder;
+    width: fit-content;
+}
+
+.inrlogo
+{
+    color:#A0E467;
+}

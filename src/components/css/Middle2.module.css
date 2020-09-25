@@ -1,0 +1,96 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.imgcontainer
+{
+    background: url('../assets/content.png');
+    background-position: center;  
+    height: 75vh;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.watchbtn{
+
+    width: 200px;
+    margin-left: 20px;
+    border: 1px solid gray;
+    font-weight: bolder;
+    padding: 5px;
+    letter-spacing: 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    position: relative;
+    bottom: 60px;
+    cursor: pointer;
+}
+
+
+.timeslot span
+{
+    margin: 5px;
+}
+
+.timeslot span button
+{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 2px 2px 8px   #6997A1;
+    border:none;
+}
+
+.timeslot p
+{
+    color: gray;
+}
+
+.timeslot .date
+{
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+
+.timeslot .inrbtn
+{
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 2px 2px 8px   #6997A1;;
+    outline: none;
+    border:none;
+}
+
+.timeslot .inrbtn span:nth-child(1)
+{
+    text-decoration: line-through;
+    color: #6997A1;
+}
+
+.timeslot .inrbtn span:nth-child(2)
+{
+    font-weight: bolder;
+}
+
+.timeslot a
+{
+    color: #FF3A58;
+    text-decoration: underline;
+    font-size: 1rem;
+}
+
+.share
+{
+    border-radius: 10px;
+    padding: 5px;
+    background-color: #FF3A58;
+    box-shadow: 2px 2px 8px   #6997A1;
+    border:none;  
+    color: white;
+    font-weight: bolder;
+    margin: 4px;
+}

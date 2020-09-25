@@ -1,0 +1,18 @@
+.heading
+{
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.para
+{
+    color: #5A5959;
+    font-size: .9rem;
+}
+
+@media only screen and (max-width: 600px) 
+{
+    .heading
+    {
+        font-size: 1.012rem;
+    }   
+}
