@@ -15,7 +15,7 @@ const Middle2 = () => {
             </button>
           </div>
         </div>
-
+        
         <div className="col-md-6">
           <br />
           <div className={style.timeslot}>

@@ -22,7 +22,7 @@ const Middle4 = () => {
         <br />
         <br />
         <h3 className={style.heading}>What are the Post-Class Assignments?</h3>
-        <Carousel breakPoints={breakPoints}>
+        <Carousel breakPoints={breakPoints} style={{color:'green'}}>
           <Item>
             <Card style={{ width: "18rem",borderRadius:'10px',boxShadow: '2px 2px 8px #6997A1'}}>
               <Card.Img variant="top" src={carou2} />

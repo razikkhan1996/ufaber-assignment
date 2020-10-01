@@ -22,3 +22,26 @@ h2{
     font-size: 1.3rem;
     font-weight: bolder;
 }
+
+@media only screen and (max-width: 580px)
+{
+    .recommended
+    {
+        display: none;
+        margin-top: 0px;
+    }
+
+    .utility h2,h6
+    {
+        font-size: 1.5rem;
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 581px)
+{
+    .utility h2,h6
+    {
+        width: 100%;
+    }
+}

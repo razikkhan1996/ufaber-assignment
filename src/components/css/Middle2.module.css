@@ -8,7 +8,7 @@ body
 {
     background: url('../assets/content.png');
     background-position: center;  
-    height: 75vh;
+    height: 85vh;
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
@@ -26,7 +26,7 @@ body
     cursor: pointer;
     border-radius: 10px;
     position: relative;
-    bottom: 60px;
+    bottom: 80px;
     cursor: pointer;
 }
 
@@ -43,6 +43,7 @@ body
     background-color: white;
     box-shadow: 2px 2px 8px   #6997A1;
     border:none;
+    margin-bottom: 10px;
 }
 
 .timeslot p
