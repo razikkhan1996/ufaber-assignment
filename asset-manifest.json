@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ufaber-assignment/static/css/main.b31aefa4.chunk.css",
-    "main.js": "/ufaber-assignment/static/js/main.05c24ff9.chunk.js",
-    "main.js.map": "/ufaber-assignment/static/js/main.05c24ff9.chunk.js.map",
+    "main.css": "/ufaber-assignment/static/css/main.1f4cf54a.chunk.css",
+    "main.js": "/ufaber-assignment/static/js/main.5dc97b0a.chunk.js",
+    "main.js.map": "/ufaber-assignment/static/js/main.5dc97b0a.chunk.js.map",
     "runtime-main.js": "/ufaber-assignment/static/js/runtime-main.6ab4f1eb.js",
     "runtime-main.js.map": "/ufaber-assignment/static/js/runtime-main.6ab4f1eb.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/ufaber-assignment/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.41bcf07c.chunk.js": "/ufaber-assignment/static/js/2.41bcf07c.chunk.js",
-    "static/js/2.41bcf07c.chunk.js.map": "/ufaber-assignment/static/js/2.41bcf07c.chunk.js.map",
+    "static/js/2.0ef7da22.chunk.js": "/ufaber-assignment/static/js/2.0ef7da22.chunk.js",
+    "static/js/2.0ef7da22.chunk.js.map": "/ufaber-assignment/static/js/2.0ef7da22.chunk.js.map",
     "index.html": "/ufaber-assignment/index.html",
-    "precache-manifest.21f32a348feef2f300e91020a45f8a28.js": "/ufaber-assignment/precache-manifest.21f32a348feef2f300e91020a45f8a28.js",
+    "precache-manifest.f99bc28c0067706bd67714b094be5284.js": "/ufaber-assignment/precache-manifest.f99bc28c0067706bd67714b094be5284.js",
     "service-worker.js": "/ufaber-assignment/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/ufaber-assignment/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.b31aefa4.chunk.css.map": "/ufaber-assignment/static/css/main.b31aefa4.chunk.css.map",
-    "static/js/2.41bcf07c.chunk.js.LICENSE.txt": "/ufaber-assignment/static/js/2.41bcf07c.chunk.js.LICENSE.txt",
+    "static/css/main.1f4cf54a.chunk.css.map": "/ufaber-assignment/static/css/main.1f4cf54a.chunk.css.map",
+    "static/js/2.0ef7da22.chunk.js.LICENSE.txt": "/ufaber-assignment/static/js/2.0ef7da22.chunk.js.LICENSE.txt",
     "static/media/carou2.png": "/ufaber-assignment/static/media/carou2.6e3bb00b.png",
     "static/media/middle6.module.css": "/ufaber-assignment/static/media/container.4912d9a5.png",
     "static/media/Middle2.module.css": "/ufaber-assignment/static/media/content.fc2dc51a.png"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.6ab4f1eb.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.41bcf07c.chunk.js",
-    "static/css/main.b31aefa4.chunk.css",
-    "static/js/main.05c24ff9.chunk.js"
+    "static/js/2.0ef7da22.chunk.js",
+    "static/css/main.1f4cf54a.chunk.css",
+    "static/js/main.5dc97b0a.chunk.js"
   ]
 }

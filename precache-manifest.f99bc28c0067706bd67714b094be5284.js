@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6387879051e04940bd3a06d8a4eea8c0",
+    "revision": "26162ffc0ed9a3e61c19b568be0663e1",
     "url": "/ufaber-assignment/index.html"
   },
   {
-    "revision": "cd8ce9a55277d7edd7a8",
+    "revision": "eb68ef153ca6d6461e4f",
     "url": "/ufaber-assignment/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "09a3a8aadd39dd8cd978",
-    "url": "/ufaber-assignment/static/css/main.b31aefa4.chunk.css"
+    "revision": "1e4e92731d05b533a933",
+    "url": "/ufaber-assignment/static/css/main.1f4cf54a.chunk.css"
   },
   {
-    "revision": "cd8ce9a55277d7edd7a8",
-    "url": "/ufaber-assignment/static/js/2.41bcf07c.chunk.js"
+    "revision": "eb68ef153ca6d6461e4f",
+    "url": "/ufaber-assignment/static/js/2.0ef7da22.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/ufaber-assignment/static/js/2.41bcf07c.chunk.js.LICENSE.txt"
+    "url": "/ufaber-assignment/static/js/2.0ef7da22.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "09a3a8aadd39dd8cd978",
-    "url": "/ufaber-assignment/static/js/main.05c24ff9.chunk.js"
+    "revision": "1e4e92731d05b533a933",
+    "url": "/ufaber-assignment/static/js/main.5dc97b0a.chunk.js"
   },
   {
     "revision": "625e39f5acae8968d911",

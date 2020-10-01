@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ufaber-assignment/precache-manifest.21f32a348feef2f300e91020a45f8a28.js"
+  "/ufaber-assignment/precache-manifest.f99bc28c0067706bd67714b094be5284.js"
 );
 
 self.addEventListener('message', (event) => {
